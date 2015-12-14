@@ -1,0 +1,16 @@
+{
+  "name": "expresswebsite",
+  "description": "",
+  "main": "index.js",
+  "authors": [
+    "Daniel <dan@hectic.io>"
+  ],
+  "license": "ISC",
+  "moduleType": [
+    "node"
+  ],
+  "homepage": "",
+  "dependencies": {
+    "bootstrap": "~3.3.6"
+  }
+}
